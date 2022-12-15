@@ -6,7 +6,10 @@ Passionate about programming 💜 <br>
 
 <img src= "https://media.giphy.com/media/WU0SzGzJZmW7KypTRS/giphy.gif" style="width: 50%; display: inline-block;">
 
-<br>🔭 I’m currently working at Conveyornow<br><br>🌱 I’m learning Python<br><br>📝 I regularly write articles on LinkedIn<br><br>💬 Ask me about Job opportunities, fully remote, paid in USD plus an attractive benefits<br><br>📫 How to reach me carlafreschpons@gmail.com, https://wa.me/59891545444
+<br>🔭 I’m currently working at Conveyornow<br><br>🌱 I’m learning Python<br><br>📝 I regularly write articles on LinkedIn<br><br>💬 Ask me about Job opportunities, fully remote, paid in USD plus an attractive benefits<br><br>📫 Feel free to reach out in English or Spanish 
+💬 https://wa.me/59891545444 <br>
+📩 carlfreschponsa@gmail.com <br>
+Job Opportunities 👉 https://forms.gle/C5gSnpwpchBPbxPF6 <br>
 
 
 ## 🌐 Socials:
