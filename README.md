@@ -9,7 +9,7 @@ Passionate about programming 💜 <br>
 <br>🔭 I’m currently working at Conveyornow<br><br>🌱 I’m learning Python<br><br>📝 I regularly write articles on LinkedIn<br><br>💬 Ask me about Job opportunities, fully remote, paid in USD plus an attractive benefits<br><br>📫 Feel free to reach out in English or Spanish 
 💬 https://wa.me/59891545444 <br>
 📩 carlfreschponsa@gmail.com <br>
-Job Opportunities 👉 https://forms.gle/C5gSnpwpchBPbxPF6 <br>
+Job Opportunities at Conveyornow 👉 https://forms.gle/C5gSnpwpchBPbxPF6 <br>
 
 
 ## 🌐 Socials:
