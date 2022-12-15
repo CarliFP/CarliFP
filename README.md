@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Lead Recruiter | International Headhunter | Agile HR
+Lead Recruiter | International Headhunter | Agile HR <br>
 Passionate about programming 💜 <br>
 
 
