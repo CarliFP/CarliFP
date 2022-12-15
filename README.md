@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src= "https://media.giphy.com/media/WU0SzGzJZmW7KypTRS/giphy.gif" style="max-width:50%;
+<img src= "https://media.giphy.com/media/WU0SzGzJZmW7KypTRS/giphy.gif" style="width:50%;
     height:auto">
 
 Lead Recruiter and passionate about programming from Uruguay<br>
