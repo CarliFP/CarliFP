@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-<img src= "https://media.giphy.com/media/WU0SzGzJZmW7KypTRS/giphy.gif">
+<img src= "https://media.giphy.com/media/WU0SzGzJZmW7KypTRS/giphy.gif" style="max-width:50%;
+    height:auto">
 
 Lead Recruiter and passionate about programming from Uruguay<br>
 <br>🔭 I’m currently working at Conveyornow<br><br>🌱 I’m currently learning Python<br><br>📝 I regularly write articles on LinkedIn<br><br>💬 Ask me about Job opportunities, fully remote, paid in USD plus an attractive benefits<br><br>📫 How to reach me carla@conveyornow.com, https://wa.me/59891545444
