@@ -3,8 +3,6 @@
 Lead Recruiter | International Headhunter | Agile HR <br>
 Passionate about programming 💜 <br>
 
-I'm an experienced and effective working across the full cycle recruiting, with great organizational skills, accustomed to handling multiple tasks, great attention to detail, effective management and negotiation skills. I enjoy working side by side with multicultural people and teams.
-
 
 <img src= "https://media.giphy.com/media/WU0SzGzJZmW7KypTRS/giphy.gif" style="width: 50%; display: inline-block;">
 
