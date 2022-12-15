@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-Lead Recruiter | IT Talent Acquisition Specialist | Talent Manager | Agile HR | International Headhunter
+Lead Recruiter | International Headhunter | Agile HR
 Passionate about programming 💜 <br>
 
 
-<img src= "https://media.giphy.com/media/WU0SzGzJZmW7KypTRS/giphy.gif" style="width: 25%; display: inline-block;">
+<img src= "https://media.giphy.com/media/WU0SzGzJZmW7KypTRS/giphy.gif" style="width: 50%; display: inline-block;">
 
 <br>🔭 I’m currently working at Conveyornow<br><br>🌱 I’m learning Python<br><br>📝 I regularly write articles on LinkedIn<br><br>💬 Ask me about Job opportunities, fully remote, paid in USD plus an attractive benefits<br><br>📫 How to reach me carlafreschpons@gmail.com, https://wa.me/59891545444
 
